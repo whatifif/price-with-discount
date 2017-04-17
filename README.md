@@ -14,4 +14,4 @@
 
 	```javascript
     npm test
-    ``
+    ```
