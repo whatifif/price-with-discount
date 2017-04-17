@@ -11,6 +11,9 @@
     "start": "webpack-dev-server",
     "test": "mocha --compilers js:babel-core/register ./test/**/*.test.js"
   },
+  "babel": {
+    "presets": ["es2015"]
+  },
   "author": "whatifif",
   "license": "ISC",
   "devDependencies": {
