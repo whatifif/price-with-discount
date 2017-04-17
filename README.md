@@ -2,6 +2,7 @@
 Clone the repository and install modules:
 ```
 git clone git@github.com:whatifif/price-with-discount.git
+cd price-with-discount
 npm install
 ```
 
