@@ -1,5 +1,11 @@
 ## To run this app, you need Nodejs.
-## Type the following command in terminal.
+Clone the repository and install modules:
+```
+git clone git@github.com:whatifif/price-with-discount.git
+npm install
+```
+
+## To run the development server, type the following command in terminal.
 
 1.	Start the development server.
 ```
