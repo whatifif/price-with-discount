@@ -21,3 +21,10 @@ npm start
 ```
 npm test
 ```
+
+
+## To get the index.html and bundle.js for deployment, type the following command in terminal.
+
+```
+npm run build
+```
