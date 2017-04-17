@@ -12,6 +12,6 @@
 
 ## To test this app, type the following command in terminal.
 
-	```javascript
-    npm test
-    ```
+```
+npm start
+```
